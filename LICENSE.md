@@ -1,4 +1,4 @@
-# 
+# Professionnel AI Meeting Notes Summarizer plugins. Avec IA dans le cloud et apprentissage par transfert — optimisé pour des performances maximales.
 
 
 
